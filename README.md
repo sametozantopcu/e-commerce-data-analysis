@@ -71,12 +71,15 @@ jupyter notebook notebooks/e_commerce_data_analysis.ipynb
 ## 📊 Visualizations
 
 **Distribution of `toplam_tutar` (right-skewed, driven by high-value Electronics orders)**
+
 ![Total amount distribution](images/toplam_tutar_histogram.png)
 
 **Total amount by category (Electronics shows the widest spread and most outliers)**
+
 ![Category vs total amount](images/kategori_boxplot.png)
 
 **Payment method distribution (Kredi Kartı dominates)**
+
 ![Payment method distribution](images/odeme_turu_countplot.png)
 
 
