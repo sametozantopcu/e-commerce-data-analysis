@@ -88,6 +88,8 @@ jupyter notebook notebooks/e_commerce_data_analysis.ipynb
 
 
 ## 👤 Author
-**Samet Ozan Topçu**
-- GitHub: [github.com/sametozantopcu](https://github.com/sametozantopcu)
-- LinkedIn: [linkedin.com/in/samet-ozan-topcu](https://www.linkedin.com/in/samet-ozan-topcu-4328003a0/)
+
+**Samet Ozan Topcu**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samet-ozan-topcu-4328003a0/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sametozantopcu)
