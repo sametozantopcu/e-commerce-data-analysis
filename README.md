@@ -7,12 +7,11 @@ This repository features a comprehensive Exploratory Data Analysis (EDA) and Dat
 ```
 e-commerce-data-analysis/
 ├── data/
-│   └── e_commerce_dataset.csv     # raw dataset (not tracked if large / confidential)
+│   └── e_commerce_dataset.csv    
 ├── notebooks/
 │   └── e_commerce_data_analysis.ipynb
-├── images/                        # exported plots used below
+├── images/                      
 ├── requirements.txt
-├── LICENSE
 └── README.md
 ```
 
@@ -87,8 +86,7 @@ jupyter notebook notebooks/e_commerce_data_analysis.ipynb
 * **Satisfaction Metrics:** Overall mean customer rating is 3.99/5. Both Existing and New segments average 4.0.
 * **Actionable Strategy:** Targeted marketing should capitalize on Electronics category momentum, while bespoke perks could help elevate the slightly trailing VIP segment.
 
-## 📄 License
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
 ## 👤 Author
-_Add your name / GitHub / LinkedIn here._
+**Samet Ozan Topçu**
+- GitHub: [github.com/sametozantopcu](https://github.com/sametozantopcu)
+- LinkedIn: [linkedin.com/in/samet-ozan-topcu](https://www.linkedin.com/in/samet-ozan-topcu-4328003a0/)
