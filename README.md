@@ -21,14 +21,13 @@ e-commerce-data-analysis/
 
 ## ⚙️ Setup & Usage
 ```bash
-git clone https://github.com/<username>/e-commerce-data-analysis.git
+git clone https://github.com/sametozantopcu/heart-disease-ml-pipeline.git
 cd e-commerce-data-analysis
 pip install -r requirements.txt
 jupyter notebook notebooks/e_commerce_data_analysis.ipynb
 ```
 
 ## 📖 Dataset
-* **Source:** `data/e_commerce_dataset.csv` — _add the origin here (e.g. Kaggle link, or "synthetically generated for this project")_
 * **Size:** 1,428 orders × 18 features (before cleaning), 1,370 × 22 after cleaning & feature engineering
 
 | Column | Description |
@@ -87,6 +86,8 @@ jupyter notebook notebooks/e_commerce_data_analysis.ipynb
 * **Actionable Strategy:** Targeted marketing should capitalize on Electronics category momentum, while bespoke perks could help elevate the slightly trailing VIP segment.
 
 ## 👤 Author
-**Samet Ozan Topçu**
-- GitHub: [github.com/sametozantopcu](https://github.com/sametozantopcu)
-- LinkedIn: [linkedin.com/in/samet-ozan-topcu](https://www.linkedin.com/in/samet-ozan-topcu-4328003a0/)
+
+**Samet Ozan Topcu**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samet-ozan-topcu-4328003a0/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sametozantopcu)
