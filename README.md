@@ -29,8 +29,8 @@ jupyter notebook notebooks/e_commerce_data_analysis.ipynb
 ```
 
 ## 📖 Dataset
-* **Source:** _add the dataset source here (e.g. Kaggle link, or "synthetically generated for this project")_
-* **Size:** 1,428 orders × 18 features (before cleaning)
+* **Source:** `data/e_commerce_dataset.csv` — _add the origin here (e.g. Kaggle link, or "synthetically generated for this project")_
+* **Size:** 1,428 orders × 18 features (before cleaning), 1,370 × 22 after cleaning & feature engineering
 
 | Column | Description |
 |---|---|
@@ -71,12 +71,15 @@ jupyter notebook notebooks/e_commerce_data_analysis.ipynb
 * Generated count plots showing *Kredi Kartı* (Credit Card) as the dominant payment method.
 
 ## 📊 Visualizations
-_Add exported plot images here, e.g.:_
-```
+
+**Distribution of `toplam_tutar` (right-skewed, driven by high-value Electronics orders)**
 ![Total amount distribution](images/toplam_tutar_histogram.png)
+
+**Total amount by category (Electronics shows the widest spread and most outliers)**
 ![Category vs total amount](images/kategori_boxplot.png)
+
+**Payment method distribution (Kredi Kartı dominates)**
 ![Payment method distribution](images/odeme_turu_countplot.png)
-```
 
 ## 💡 Analytical Key Findings
 * **Top Performing Category:** *Elektronik* yields the highest average transaction revenue at 3,178.4 TL, driving the majority of premium spending and extreme outliers.
@@ -84,6 +87,8 @@ _Add exported plot images here, e.g.:_
 * **Satisfaction Metrics:** Overall mean customer rating is 3.99/5. Both Existing and New segments average 4.0.
 * **Actionable Strategy:** Targeted marketing should capitalize on Electronics category momentum, while bespoke perks could help elevate the slightly trailing VIP segment.
 
+## 📄 License
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
 ## 👤 Author
 _Add your name / GitHub / LinkedIn here._
-
