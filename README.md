@@ -24,7 +24,7 @@ e-commerce-data-analysis/
 git clone https://github.com/sametozantopcu/e-commerce-data-analysis.git
 cd e-commerce-data-analysis
 pip install -r requirements.txt
-jupyter notebook notebooks/e_commerce_data_analysis.ipynb
+jupyter notebook e_commerce_data_analysis.ipynb
 ```
 
 ## 📖 Dataset
