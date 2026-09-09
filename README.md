@@ -79,11 +79,13 @@ jupyter notebook notebooks/e_commerce_data_analysis.ipynb
 **Payment method distribution (Kredi Kartı dominates)**
 ![Payment method distribution](images/odeme_turu_countplot.png)
 
+
 ## 💡 Analytical Key Findings
 * **Top Performing Category:** *Elektronik* yields the highest average transaction revenue at 3,178.4 TL, driving the majority of premium spending and extreme outliers.
 * **Customer Demographics:** Existing customers (*Mevcut*) make up 51.02% of the user base, followed by New (*Yeni*) at 37.30%, and a niche VIP segment at 11.68%.
 * **Satisfaction Metrics:** Overall mean customer rating is 3.99/5. Both Existing and New segments average 4.0.
 * **Actionable Strategy:** Targeted marketing should capitalize on Electronics category momentum, while bespoke perks could help elevate the slightly trailing VIP segment.
+
 
 ## 👤 Author
 
