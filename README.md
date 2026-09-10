@@ -6,18 +6,19 @@ This repository features a comprehensive Exploratory Data Analysis (EDA) and Dat
 ## 🗂️ Project Structure
 ```
 e-commerce-data-analysis/
-├── data/
-│   └── e_commerce_dataset.csv    
-├── notebooks/
-│   └── e_commerce_data_analysis.ipynb
-├── images/                      
-├── requirements.txt
-└── README.md
+├── images/  
+│   └── kategori_boxplot.png
+│   └── odeme_turu_countplot.png
+│   └── toplam_tutar_histogram.png
+├── README.md
+├── e_commerce_data_analysis.ipynb   
+├── e_commerce_dataset.csv                    
+└── requirements.txt
 ```
 
 ## 🛠️ Technologies Used
 * **Language:** Python 3
-* **Libraries:** Pandas, Matplotlib, Seaborn
+* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 
 ## ⚙️ Setup & Usage
 ```bash
